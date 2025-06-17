@@ -1,4 +1,4 @@
-### 🏆 Baseball MVP Analysis (1986 MLB Season)
+### Baseball MVP Analysis (1986 MLB Season)
 
 **Overview:**  
 Leveraged **dplyr** and **ggplot2** to explore the 1986 MLB season and forecast MVP trends.
