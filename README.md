@@ -14,17 +14,13 @@ To identify the most likely Most Valuable Player (MVP) candidates from the 1986 
 1. **Data Cleaning & Eligibility**  
    - Loaded a dataset of **726 players**  
    - Removed anyone with **0 at-bats**  
-   - Applied award-eligibility filters (≥300 AB or ≥100 games)  
+   - Applied award-eligibility filters (≥300 AB or ≥100 games)    
 
-2. **Metric Computation**  
-   - **Batting Average** (BA = H/AB)  
-   - **On-Base Percentage** (OBP = (H + BB)/(AB + BB))  
-
-3. **Exploratory Visualization**  
+2. **Exploratory Visualization**  
    - **Histograms** of BA to see league-wide distributions  
    - **Segmented analyses** of top HR, RBI & OBP leaders to contrast power hitters vs. consistency stars  
 
-4. **MVP Trend Forecasting**  
+3. **MVP Trend Forecasting**  
    - Ranked players by OBP, HR & RBI  
    - Cross-referenced top performers to spotlight predictive indicators  
    - Highlighted **Mike Schmidt’s** elite output at age 36 as a leading signal for MVP success  
